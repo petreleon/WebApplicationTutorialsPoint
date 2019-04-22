@@ -12,7 +12,7 @@ namespace WebApplicationTutorialsPoint.Pages
 
         public void OnGet()
         {
-            Message ="This is an example";
+            Message ="This is an example from my page";
         }
     }
 }
